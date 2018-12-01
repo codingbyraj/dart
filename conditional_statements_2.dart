@@ -23,4 +23,23 @@ void main() {
   } else if (a < 25) {
     print('$a is less than 25');
   }
+
+
+//Switch condition
+  String grade="a";
+  switch(grade){
+    case "a":{
+      print('A grade');
+    }
+    break;
+    case "b":{
+      print('B grade');
+    }
+    break;
+    case "c":{
+      print('B grade');
+    }
+    break;
+    default:print('default grade');
+  }
 }
