@@ -1,6 +1,7 @@
 void main(){
   String s1='Hello world';  //single line string
   String s2="Hello world";  //single line string
+  // multi line string is taken from python
   String s3='''Hello 
   world''';  //multi line string
   String s4="""Hello 
